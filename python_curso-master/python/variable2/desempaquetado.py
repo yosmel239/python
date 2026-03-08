@@ -5,3 +5,4 @@ datos_en_lista = ["yosmel","matos",16]
 nombre,apellido,edad = datos_en_tupla
 #respuesta
 print(edad)
+print(nombre)
