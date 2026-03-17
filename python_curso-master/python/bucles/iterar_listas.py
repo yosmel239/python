@@ -18,3 +18,6 @@ for animal, numero in zip(animales, numeros):
     
 for distancia in range(1,3):
     print(f"la distancia es: {distancia} km")    
+    
+for num in range(len(numeros)):
+    print(numeros[num])
